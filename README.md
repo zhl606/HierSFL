@@ -1,2 +1,2 @@
 # HierSFL
-Proof for paper titled Convergence Analysis of Client-Edge-Cloud Hierarchical Split Federated Learning
+Proof for paper titled Convergence Analysis of Hierarchical Split Federated Learning
